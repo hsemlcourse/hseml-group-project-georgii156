@@ -1,0 +1,34 @@
+# Data
+*.csv
+*.zip
+*.gz
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore*.csv
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+venv/
